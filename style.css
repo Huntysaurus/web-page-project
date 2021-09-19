@@ -11,14 +11,16 @@ h1 {
 }
 
 .introduction {
+    display:block;
+    margin-inline: 200px;
     font-size: 25px;
 }
 
 div {
     background-color:rgb(240, 206, 162);
-    background-position: 100px;
 }
 
 a {
     color: rgb(22, 58, 42);
+    font-weight: bold;
 }
