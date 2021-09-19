@@ -12,9 +12,13 @@ h1 {
 
 .introduction {
     font-size: 25px;
-    background-color:cornsilk
+}
+
+div {
+    background-color:rgb(240, 206, 162);
+    background-position: 100px;
 }
 
 a {
-
+    color: rgb(22, 58, 42);
 }
