@@ -1,11 +1,15 @@
 body {
     background: rgb(82, 134, 112);
+    background-image: url(https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/tropical-leaves-background-natee-srisuk.jpg);
+    background-position:center;
+    background-attachment: fixed;
+    margin-inline: 200px;
 }
 
 h1 {
     font-size: 60px;
     text-align: center;
-    color: rgb(190, 150, 98);
+    color: rgb(255, 174, 0);
     background: rgb(22, 58, 42);
     font-style: oblique;
 }
@@ -16,11 +20,29 @@ h1 {
     font-size: 25px;
 }
 
-div {
+#intro {
     background-color:rgb(240, 206, 162);
 }
 
 a {
-    color: rgb(22, 58, 42);
+    color: rgb(0, 116, 64);
     font-weight: bold;
+}
+
+.img {
+    display:block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    border:5px solid rgb(255, 174, 0);
+}
+
+figcaption {
+    text-align: center;
+    font-size: 20px;
+    margin-top: 10px;
+    background:rgb(22, 58, 42);
+    color:rgb(255, 174, 0);
+    margin-inline: 15%;
 }
