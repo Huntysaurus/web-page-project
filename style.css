@@ -31,7 +31,7 @@ a {
 
 .img {
     display:block;
-    margin-top: 50px;
+    margin-top: 15%;
     margin-left: auto;
     margin-right: auto;
     width: 80%;
@@ -44,5 +44,5 @@ figcaption {
     margin-top: 10px;
     background:rgb(22, 58, 42);
     color:rgb(255, 174, 0);
-    margin-inline: 15%;
+    margin-inline: 20%;
 }
